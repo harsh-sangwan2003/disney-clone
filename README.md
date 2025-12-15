@@ -1,6 +1,8 @@
 # Disney+ Clone
 
-- Engineered Disney+ Clone website with React.js, Firebase, Styled Components, and Redux, achieving a faster loading speed and an impressive 0.01 CLS score.
+- Engineered a full-stack web application with Firebase authentication, managing profiles & ensuring seamless streaming and enhanced user experience.
+- Developed UI interfaces integrated with Firebase for secure user authentication and real-time database functionality, reducing load time by 40% with code-splitting and lazy-loading, and achieving a 0.01 CLS score.
+- Implemented security measures against vulnerabilities like XSS, CSRF, and SQL injection.
 
 ## Live Demo
 
